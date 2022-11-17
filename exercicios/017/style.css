@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align:justify;
+    image-orientation: initial;
+    background-attachment: fixed;
+    padding: 5px;
+    font-size: 0.90em;
+}

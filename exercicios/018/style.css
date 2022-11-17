@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(15, 214, 164);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color:  rgb(21, 80, 65);
+
+}
+
+h2{
+    color: rgb(30, 36, 34);
+
+}
+
+.principal{
+    color: white;
+    text-align: center;
+    font-size: 3em;
+    background-color: rgba(104, 104, 255, 0.596);
+    border-radius: 5px;
+
+}
+
+.subtitulo{
+    text-align: center;
+
+}

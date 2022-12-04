@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    background-image: url('img/wallpaper002.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+main{
+    display: flex;
+    
+    flex-direction: column;
+    max-width: 600px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+    padding: 5px;
+    
+}
